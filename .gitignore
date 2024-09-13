@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/ChatApplication1
+/ChatApplication1/x64/Debug
+/x64/Debug
