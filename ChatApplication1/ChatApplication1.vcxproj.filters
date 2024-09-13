@@ -15,12 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="ChatClient.cpp">
+    <None Include="ChatServer.cpp">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ChatServer.cpp">
+    <ClCompile Include="ChatClient.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
